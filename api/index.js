@@ -8,6 +8,8 @@ import commentRoutes from './routes/comment.route.js';
 import cookieParser from 'cookie-parser';
 import path from 'path';
 
+const keep_alive = require('./keep_alive.js')
+
 dotenv.config();
 
 mongoose
