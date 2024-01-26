@@ -103,7 +103,7 @@ export default function CreatePost() {
             }
           >
             <option value='uncategorized'>Select a category</option>
-            <option value='javascript'>Ethical Hacking</option>
+            <option value='javascript2'>Ethical Hacking</option>
             <option value='reactjs'>Web development</option>
             <option value='nextjs'>Linux</option>
           </Select>
