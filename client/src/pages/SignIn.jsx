@@ -48,13 +48,13 @@ export default function SignIn() {
         {/* left */}
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-4xl'>
-            <span className='px-2 py-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg text-white'>
-              Sahand's
+            <span className='px-2 py-1 bg-gradient-to-r from-orange-400 via-amber-300 to-yellow-200 rounded-lg text-white'>
+              Blog
             </span>
-            Blog
+            Hub
           </Link>
           <p className='text-sm mt-5'>
-            This is a demo project. You can sign in with your email and password
+            Welcome to my blog. You can sign in with your email and password
             or with Google.
           </p>
         </div>
