@@ -103,9 +103,9 @@ export default function CreatePost() {
             }
           >
             <option value='uncategorized'>Select a category</option>
-            <option value='javascript2'>Ethical Hacking</option>
-            <option value='reactjs'>Web development</option>
-            <option value='nextjs'>Linux</option>
+            <option value='Ethical Hacking'>Ethical Hacking</option>
+            <option value='Web Development'>Web development</option>
+            <option value='Linux'>Linux</option>
           </Select>
         </div>
         <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>
