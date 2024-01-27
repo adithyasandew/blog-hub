@@ -11,7 +11,7 @@ export default function CallToAction() {
                 Are you ready to bring your dream website to life? Look no further! I am a seasoned web developer with a passion for turning visions into stunning, functional websites. Whether you need a personal blog, a sleek portfolio, or a robust e-commerce platform, I've got you covered.
             </p>
             <Button gradientDuoTone='pinkToOrange' className='rounded-tl-xl rounded-bl-none'>
-                <a href="https://https://wa.me/+94773916022?text=Hey" target='_blank' rel='noopener noreferrer'>
+                <a href="wa.me/+94787334812" target='_blank' rel='noopener noreferrer'>
                     Contact Me
                 </a>
             </Button>
